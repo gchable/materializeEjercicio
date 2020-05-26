@@ -1,0 +1,10 @@
+.barra-superior{
+  height: 4rem;
+}
+.columna-grupos, .columna-principal, .columna-publicaciones, .columna-news, .columna-chat{
+  height: 50rem;
+  border: 1px solid gray;
+}
+.bloque-feed, .bloque-chat{
+  height: 25rem;
+}
